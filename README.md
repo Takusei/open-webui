@@ -14,7 +14,6 @@ User=ollama
 Group=ollama
 Restart=always
 RestartSec=3
-Environment="PATH=/home/jaycen/.krew/bin:/home/jaycen/.bun/bin:/home/jaycen/.asdf/shims:/home/jaycen/.asdf/bin:/usr/loc>
 Environment="OLLAMA_HOST=0.0.0.0:11434"
 Environment="OLLAMA_ORIGINS=*"
 
