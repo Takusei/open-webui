@@ -24,3 +24,6 @@ WantedBy=default.target
 ```
 docker compose up -d
 ```
+
+Refer:
+https://github.com/ollama/ollama/issues/1431#issuecomment-2463691029
